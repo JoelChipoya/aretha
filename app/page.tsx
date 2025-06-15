@@ -85,14 +85,14 @@ END:VCARD`
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
                   <Mail className="h-5 w-5 text-[#094794]" />
-                  <a href="mailto:reception@ijg.net" className="text-sm text-gray-700 hover:text-[#094794]">
+                  <a href="mailto:aretha@ijg.net" className="text-sm text-gray-700 hover:text-[#094794]">
                     aretha@ijg.net
                   </a>
                 </div>
                 
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5 text-[#094794]" />
-                  <a href="tel:+264819583500" className="text-sm text-gray-700 hover:text-[#094794]">
+                  <a href="tel:+264819583540" className="text-sm text-gray-700 hover:text-[#094794]">
                     +264819583540
                   </a>
                 </div>
